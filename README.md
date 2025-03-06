@@ -14,7 +14,7 @@ Utilizamos o HorizontalLayoutGroup para organizar os botões.
     </tr>
 </table>
 
-# Game Manager
+# Managers
 
 
 # Movimentação
