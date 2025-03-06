@@ -9,6 +9,8 @@ O Menu do jogo terá três opções: um play para entrar cena gameplay e outro e
 
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Menu.gif" width="630" height="500"/></td>
 
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Grid_HorizontalLayoutGroup.png" width="230" height="300"/></td>
+
 
 # Game Manager
 
