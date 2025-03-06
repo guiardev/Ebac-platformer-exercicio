@@ -7,9 +7,13 @@ Jogo feito no cursos Ebac, nesse curso eu aprendi a desenvolver game utilizando 
 
 O Menu do jogo terá três opções: um play para entrar cena gameplay e outro exit para sair do jogo e credits.
 
-<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Menu.gif" width="630" height="500"/></td>
 
-<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Grid_HorizontalLayoutGroup.png" width="230" height="300"/></td>
+<table border="0">
+    <tr>
+      <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Menu.gif" width="630" height="500"/></td>
+      <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Grid_HorizontalLayoutGroup.png" width="330" height="400"/></td>
+    </tr>
+</table>
 
 
 # Game Manager
