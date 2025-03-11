@@ -20,9 +20,14 @@ O gameManager vai gerenciar aspectos do jogo como prefab do player e inimigos, r
 
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_GameManager.png" width="430" height="300"/></td>
 
-O ItemManager vai gerenciar moedas do jogo.
-
-<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ItemManager.png" width="330" height="100"/></td>
+<table border="0">
+    <tr>
+      O ItemManager vai gerenciar moedas do jogo.
+      <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ItemManager.png" width="330" height="100"/></td>
+      O UIinGameManager vai gerenciar Interface Gráficas do jogador.
+      <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_UIinGameManager.png" width="330" height="100"/></td>
+    </tr>
+</table>
 
 
 
