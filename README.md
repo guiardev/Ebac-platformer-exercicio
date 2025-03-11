@@ -33,7 +33,7 @@ O PauseManager vai gerenciar sistema pause do jogo.
 
 # Movimentação
 
-O personagem poderá movimentar para todos os lados e pular no cenário.
+O personagem poderá movimentar para todos os lados e pular no cenário, o script HealthBase vai fazer a parte vida do player e todos inimigos do jogo.
 
 <table border="0">
     <tr>
