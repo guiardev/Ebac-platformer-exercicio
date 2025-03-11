@@ -33,7 +33,14 @@ O PauseManager vai gerenciar sistema pause do jogo.
 
 # Movimentação
 
-<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="530" height="450"/></td>
+O personagem poderá movimentar para todos os lados e pular no cenário.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="530" height="450"/></td>
+        <td>Scripts Player and HealthBase<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Player_HealthBase.png" width="430" height="500"/></td>
+    </tr>
+</table>
  
 # Animação
 
