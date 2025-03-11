@@ -33,6 +33,7 @@ O PauseManager vai gerenciar sistema pause do jogo.
 
 # Movimentação
 
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="530" height="450"/></td>
  
 # Animação
 
