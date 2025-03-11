@@ -16,7 +16,7 @@ Utilizamos o HorizontalLayoutGroup para organizar os botões.
 
 # Managers
 
-<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_GameManager.png" width="330" height="200"/></td>
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_GameManager.png" width="430" height="300"/></td>
 
 
 # Movimentação
