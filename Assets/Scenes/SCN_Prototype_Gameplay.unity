@@ -1933,7 +1933,7 @@ GameObject:
   - component: {fileID: 530465291}
   - component: {fileID: 530465290}
   m_Layer: 0
-  m_Name: GameManager
+  m_Name: _GameManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17303,6 +17303,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: UI_Pause
       objectReference: {fileID: 0}
+    - target: {fileID: 34225597819520277, guid: e543698b75d5b2501b6925736bcc3c09, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 219262064823041743, guid: e543698b75d5b2501b6925736bcc3c09, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1823958925888800104, guid: e543698b75d5b2501b6925736bcc3c09, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1912462122813102654, guid: e543698b75d5b2501b6925736bcc3c09, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -17410,6 +17422,14 @@ PrefabInstance:
     - target: {fileID: 2753040950981795925, guid: e543698b75d5b2501b6925736bcc3c09, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4493722476230388997, guid: e543698b75d5b2501b6925736bcc3c09, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6928699575988180323, guid: e543698b75d5b2501b6925736bcc3c09, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
