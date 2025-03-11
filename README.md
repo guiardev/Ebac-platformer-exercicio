@@ -16,6 +16,20 @@ Utilizamos o HorizontalLayoutGroup para organizar os botões.
 
 # Managers
 
+O gameManager vai gerenciar aspectos do jogo como prefab do player e inimigos, referências e animação.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_GameManager.png" width="430" height="300"/></td>
+
+<table border="0">
+   <tr>
+        <td>O ItemManager vai gerenciar moedas do jogo. <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ItemManager.png" width="460" height="100"/></td>
+        <td>O UIinGameManager vai gerenciar Interface Gráficas do jogador. <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_UIinGameManager.png" width="460" height="100"/></td>
+    </tr>
+</table>
+
+O PauseManager vai gerenciar sistema pause do jogo.
+
+<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_PauseManager.png" width="500" height="100"/>
 
 # Movimentação
 
