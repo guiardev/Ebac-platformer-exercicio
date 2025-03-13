@@ -48,7 +48,7 @@ O ataque que o player pode fazer é tirar bola do inimigo e ele pode atirar para
 <table border="0">
     <tr>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Attack_Cannon.gif" width="530" height="450"/></td>
-        <td>Scripts: Player and HealthBase<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_script_GunBase.png" width="497" height="171"/></td>
+        <td>Scripts: GunBase<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_script_GunBase.png" width="497" height="171"/></td>
     </tr>
 </table>
 
