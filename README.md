@@ -47,7 +47,7 @@ Quando o personagem morre ele vai ser destruído o script PlayerDestroyHelper qu
 
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_sortingGroup_FlashColor_PlayerDestroyHelper.png" width="430" height="450"/></td>
  
-# Animação
+# Animação Player
 
 O animador do player com as animações e as transições e os parâmetros run que é um Trigger, o death e um Bool.
 
@@ -55,6 +55,16 @@ O animador do player com as animações e as transições e os parâmetros run q
 
 O animator do player
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_animator.png" width="489" height="191"/></td>
+
+# Animação Enemy
+
+O animador do enemy com as animações e as transições e os parâmetros attack que é um Trigger, o death e um Trigger.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Animation_Enemy.png" width="1160" height="364"/></td>
+
+O animator do enemy
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Animator_Enemy.png" width="489" height="191"/></td>
+
 
 # skinning
 
