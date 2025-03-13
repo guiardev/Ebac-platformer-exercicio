@@ -51,8 +51,7 @@ Quando o personagem morre ele vai ser destruído o script PlayerDestroyHelper qu
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Animation_Player.png" width="530" height="450"/></td>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_animator.png" width="330" height="300"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Animation_Player.png" width="1160" height="364"/></td>
     </tr>
 </table>
 
