@@ -54,7 +54,7 @@ O animador do player com as animações e as transições e os parâmetros run q
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Animation_Player.png" width="1160" height="364"/></td>
 
 O animator do player
-<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_animator.png" width="430" height="300"/></td>
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_animator.png" width="489" height="191"/></td>
 
 # skinning
 
