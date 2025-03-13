@@ -29,7 +29,7 @@ O gameManager vai gerenciar aspectos do jogo como prefab do player e inimigos, r
 
 O PauseManager vai gerenciar sistema pause do jogo.
 
-<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_PauseManager.png" width="500" height="100"/>
+<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_PauseManager.png" width="491" height="49"/>
 
 # Player 
 
