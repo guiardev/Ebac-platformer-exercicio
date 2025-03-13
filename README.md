@@ -10,7 +10,7 @@ Utilizamos o HorizontalLayoutGroup para organizar os botões.
 <table border="0">
     <tr>
       <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Menu.gif" width="530" height="450"/></td>
-      <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Grid_HorizontalLayoutGroup.png" width="430" height="500"/></td>
+      <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Grid_HorizontalLayoutGroup.png" width="495" height="371"/></td>
     </tr>
 </table>
 
