@@ -31,7 +31,7 @@ O PauseManager vai gerenciar sistema pause do jogo.
 
 <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_PauseManager.png" width="500" height="100"/>
 
-# Movimentação
+# Movimentação 
 
 O personagem poderá movimentar para todos os lados e pular no cenário, o script HealthBase vai fazer a parte vida do player e todos inimigo do jogo.
 
