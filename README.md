@@ -1,6 +1,6 @@
 # Ebac Platformer Task
 
-Jogo feito no cursos Ebac, nesse curso eu aprendi a desenvolver game utilizando Unity 3D.
+Jogo feito no cursos Ebac, nesse curso eu aprendi a desenvolver game utilizando Unity 2D.
 
 # Menu
 
