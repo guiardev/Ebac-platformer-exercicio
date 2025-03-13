@@ -1,6 +1,6 @@
 # Ebac Platformer Task
 
-Jogo feito no cursos Ebac, nesse curso eu aprendi a desenvolver game utilizando Unity 3D.
+Jogo feito no cursos Ebac, nesse curso eu aprendi a desenvolver game utilizando Unity 2D.
 
 # Menu
 
@@ -13,6 +13,7 @@ Utilizamos o HorizontalLayoutGroup para organizar os botões.
       <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Grid_HorizontalLayoutGroup.png" width="495" height="371"/></td>
     </tr>
 </table>
+
 
 # Managers
 
@@ -39,6 +40,15 @@ O personagem poderá movimentar para todos os lados e pular no cenário, o scrip
     <tr>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="530" height="450"/></td>
         <td>Scripts: Player and HealthBase<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Player_HealthBase.png" width="430" height="500"/></td>
+    </tr>
+</table>
+
+O ataque que o player pode fazer é tirar bola do inimigo e ele pode atirar para todos os lados e atira no pulo e o tiro atinge o inimigo.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Attack_Cannon.gif" width="530" height="450"/></td>
+        <td>Scripts: GunBase<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_script_GunBase.png" width="497" height="171"/></td>
     </tr>
 </table>
 
