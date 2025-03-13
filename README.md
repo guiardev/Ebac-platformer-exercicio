@@ -31,7 +31,7 @@ O PauseManager vai gerenciar sistema pause do jogo.
 
 <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_PauseManager.png" width="500" height="100"/>
 
-# Movimentação 
+# Player 
 
 O personagem poderá movimentar para todos os lados e pular no cenário, o script HealthBase vai fazer a parte vida do player e todos inimigo do jogo.
 
@@ -41,6 +41,11 @@ O personagem poderá movimentar para todos os lados e pular no cenário, o scrip
         <td>Scripts: Player and HealthBase<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Player_HealthBase.png" width="430" height="500"/></td>
     </tr>
 </table>
+
+O Sorting Group vai cuidar ordena renderização dos renderers do cenário, quando o player levar um hit me bisca quem vai fazer ele piscar e o script FlashColor.
+Quando o personagem morre ele vai ser destruído o script PlayerDestroyHelper que vai fazer isso acontecer.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_sortingGroup_FlashColor_PlayerDestroyHelper.png" width="430" height="450"/></td>
  
 # Animação
 
