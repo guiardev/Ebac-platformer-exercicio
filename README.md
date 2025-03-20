@@ -102,6 +102,14 @@ Aqui como ficou personagem e objetos da cena como skinning.
 
 # Itens e inimigos
 
+O item que o jogo vai ter moedas que o player poderá pegar é cada um que o jogador pegar vai adicionar um valor na interface do game.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Coins.gif" width="530" height="450"/></td>
+
+Aqui os scripts EnemyBase e HealthBase, e o FlashColor.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_EnemyBase_HealthBase_FlashColor.png" width="495" height="371"/></td>
+
 
 # scriptable objects
 
