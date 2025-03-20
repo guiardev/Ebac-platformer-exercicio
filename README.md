@@ -81,6 +81,12 @@ No Skinning Editor pode criar ossos no sprite para poder manipular o sprite e fa
 
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SkinningEditorCreateBone.png" width="1153" height="594"/></td>
 
+O Skinning Editor tem um funções para gerar automaticamente geometria para animar objeto 2d, e animação vai seguir essa formatação dessa geometria.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SkinningEditor.png" width="1153" height="594"/></td>
+
+
+
 # Itens e inimigos
 
 
