@@ -85,7 +85,17 @@ O Skinning Editor tem um funções para gerar automaticamente geometria para ani
 
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SkinningEditor.png" width="1153" height="594"/></td>
 
+O objeto precisa do sprite Skin para funcionar os ossos do objeto.
 
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SpriteSkin_Satellite.png" width="495" height="371"/></td>
+
+Aqui como ficou personagem e objetos da cena como skinning.
+
+<table border="0">
+    <tr>
+        <td>Player <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/record_player_bone.gif" width="420" height="410"/></td>
+    </tr>
+</table>
 
 # Itens e inimigos
 
