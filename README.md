@@ -111,7 +111,7 @@ O item que o jogo vai ter moedas que o player poderá pegar é cada um que o jog
     </tr>
 </table>
 
-O inimigo vai poder ser atingido pelos tiros do player e poderá morrer de ele perder sua vida.
+O inimigo vai poder ser atingido pelos tiros do player e morrer se ele perder toda sua vida, e o inimigo dá uma piscada quando for atingido por causa do script FlashColor.
 
 <table border="0">
     <tr>
