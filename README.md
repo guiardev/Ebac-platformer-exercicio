@@ -75,9 +75,30 @@ O animador do enemy com as animações e as transições e os parâmetros attack
 O animator do enemy
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Animator_Enemy.png" width="489" height="191"/></td>
 
-
 # skinning
 
+No Skinning Editor pode criar ossos no sprite para poder manipular o sprite e fazer animações.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SkinningEditorCreateBone.png" width="1153" height="594"/></td>
+
+O Skinning Editor tem um funções para gerar automaticamente geometria para animar objeto 2d, e animação vai seguir essa formatação dessa geometria.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SkinningEditor.png" width="1153" height="594"/></td>
+
+O objeto precisa do sprite Skin para funcionar os ossos do objeto.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SpriteSkin_Satellite.png" width="495" height="371"/></td>
+
+Aqui como ficou personagem e objetos da cena como skinning.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/record_player_bone.gif" width="320" height="210"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/record_enemy_bone.gif" width="320" height="210"/></td>
+    </tr>
+</table>
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/record_Satellite_bone.gif" width="320" height="210"/></td>
 
 # Itens e inimigos
 
