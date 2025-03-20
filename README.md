@@ -1,4 +1,4 @@
-# Ebac Platformer Task
+![image](https://github.com/user-attachments/assets/cc0f6692-ba9e-40f3-9388-388f13aa6da7)# Ebac Platformer Task
 
 Jogo feito no cursos Ebac, nesse curso eu aprendi a desenvolver game utilizando Unity 2D.
 
@@ -79,7 +79,7 @@ O animator do enemy
 
 No Skinning Editor pode criar ossos no sprite para poder manipular o sprite e fazer animações.
 
-<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SkinningEditorCreateBone.png" width="530" height="450"/></td>
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SkinningEditorCreateBone.png" width="1153" height="594"/></td>
 
 # Itens e inimigos
 
