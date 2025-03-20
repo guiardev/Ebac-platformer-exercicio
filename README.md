@@ -95,9 +95,10 @@ Aqui como ficou personagem e objetos da cena como skinning.
     <tr>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/record_player_bone.gif" width="320" height="210"/></td>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/record_enemy_bone.gif" width="320" height="210"/></td>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/record_Satellite_bone.gif" width="320" height="210"/></td>
     </tr>
 </table>
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/record_Satellite_bone.gif" width="320" height="210"/></td>
 
 # Itens e inimigos
 
