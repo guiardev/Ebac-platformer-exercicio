@@ -75,9 +75,11 @@ O animador do enemy com as animações e as transições e os parâmetros attack
 O animator do enemy
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Animator_Enemy.png" width="489" height="191"/></td>
 
-
 # skinning
 
+No Skinning Editor pode criar ossos no sprite para poder manipular o sprite e fazer animações.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SkinningEditorCreateBone.png" width="530" height="450"/></td>
 
 # Itens e inimigos
 
