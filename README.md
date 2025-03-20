@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cc0f6692-ba9e-40f3-9388-388f13aa6da7)# Ebac Platformer Task
+# Ebac Platformer Task
 
 Jogo feito no cursos Ebac, nesse curso eu aprendi a desenvolver game utilizando Unity 2D.
 
