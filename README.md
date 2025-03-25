@@ -1,4 +1,4 @@
-# Ebac Platformer Task
+![image](https://github.com/user-attachments/assets/4577814b-94f4-4d7d-b1a6-0b0d8ef5c4de)# Ebac Platformer Task
 
 Jogo feito no cursos Ebac, nesse curso eu aprendi a desenvolver game utilizando Unity 2D.
 
@@ -121,6 +121,10 @@ O inimigo vai poder ser atingido pelos tiros do player e morrer se ele perder to
 </table>
 
 # scriptable objects
+
+O scriptable objects e o script de configurações dos valores que os scripts vão utilizar, assim os animadores e artistas poderão modificar os valores do script.
+
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SO_Player_01.png" width="455" height="352"/></td>
 
 
 # VFX
