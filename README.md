@@ -126,8 +126,22 @@ O scriptable objects e o script de configurações dos valores que os scripts v�
 
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SO_Player_01.png" width="455" height="352"/></td>
 
-
 # VFX
 
+O VFX da moeda quando jogador pega moedas vai aparecer particle system que vai criar várias moedas por uns segundos.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Coins.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_coins_Emisson.png" width="499" height="596"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_coins_Shape_SizeOverLifetime.png" width="495" height="470"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_coins_Collision.png" width="492" height="303"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_coins_Renderer.png" width="494" height="388"/></td>
+    </tr>
+</table>
 
 # Adicionando Som
