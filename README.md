@@ -133,7 +133,7 @@ O VFX da moeda quando jogador pega moedas vai aparecer particle system que vai c
 <table border="0">
     <tr>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Coins.gif" width="530" height="450"/></td>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_coins_Emisson.png" width="499" height="596"/></td>>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_coins_Emisson.png" width="499" height="596"/></td>
     </tr>
     <tr>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_coins_Shape_SizeOverLifetime.png" width="495" height="470"/></td>
