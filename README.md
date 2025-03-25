@@ -144,4 +144,20 @@ O VFX da moeda quando jogador pega moedas vai aparecer particle system que vai c
     </tr>
 </table>
 
+O vfx do pulo do player quando o jogador pular vai aparecer particle system no chão onde jogador pulou.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_jump_Emisson.png" width="499" height="596"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_jump_Shape_ColorOverLifetime.png" width="495" height="470"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_jump_Collision.png" width="492" height="303"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_jump_Renderer.png" width="494" height="388"/></td>
+    </tr>
+</table>
+
 # Adicionando Som
