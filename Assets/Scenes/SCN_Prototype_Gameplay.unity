@@ -5024,7 +5024,7 @@ GameObject:
   - component: {fileID: 1325677632}
   - component: {fileID: 1325677631}
   m_Layer: 0
-  m_Name: PFB_ParticleSystem (2)
+  m_Name: PFB_ParticleSystem_firefly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10001,7 +10001,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8835229685202505509, guid: 00afc9fb4087652419d090da0b825d97, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8900650069353931607, guid: 00afc9fb4087652419d090da0b825d97, type: 3}
       propertyPath: player
@@ -18050,6 +18050,10 @@ PrefabInstance:
     - target: {fileID: 5181059162621454636, guid: 103466fe3186f4074bf52cfb65645519, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6407038184105935280, guid: 103466fe3186f4074bf52cfb65645519, type: 3}
+      propertyPath: EmissionModule.enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6407038184105935280, guid: 103466fe3186f4074bf52cfb65645519, type: 3}
       propertyPath: CollisionModule.m_Planes.Array.data[0]
