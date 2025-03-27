@@ -195,6 +195,8 @@ Os vagalumes vão perseguir o player no cenário e o particle system ficar dentr
 
 # Adicionando Som
 
+# Som Coins
+
 O script ItemCollectableCoin que vai estar selecionado Audio Source que vai tocar áudio quando o player pegar moeda e imagem do AudioSource e suas configurações.
 
 <table border="0">
@@ -203,3 +205,13 @@ O script ItemCollectableCoin que vai estar selecionado Audio Source que vai toca
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_script_ItemCollectableCoin.png" width="495" height="199"/></td>
     </tr>
 </table>
+
+# Audio Player o 
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioPlayHelper.png" width="495" height="480"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioRandomPlayAudioClips.png" width="495" height="430"/></td>
+    </tr>
+</table>
+    <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_animation_Run_PlayRandom.png" width="1100" height="360"/>
