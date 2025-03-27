@@ -206,7 +206,10 @@ O script ItemCollectableCoin que vai estar selecionado Audio Source que vai toca
     </tr>
 </table>
 
-# Audio Player o 
+# Audio Player
+
+O audioPlayHelper serve para testar áudio do player, já o audioRandomPlayAudioClips vai play vários áudio para não ficar tocando os mesmos áudios.
+Criamos 3 AudioSource para pode tocar um 1 por vez, vai tem 3 AudioSource um primeiro que vai mudar os áudios dos passo.
 
 <table border="0">
     <tr>
@@ -214,4 +217,8 @@ O script ItemCollectableCoin que vai estar selecionado Audio Source que vai toca
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioRandomPlayAudioClips.png" width="495" height="430"/></td>
     </tr>
 </table>
-    <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_animation_Run_PlayRandom.png" width="1100" height="360"/>
+
+Aqui animation selecionada com animação ANIM_Astronaut_Run.
+
+<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_animation_Run_PlayRandom.png" width="1100" height="360"/>
+    
