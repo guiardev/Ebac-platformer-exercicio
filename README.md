@@ -160,7 +160,7 @@ O vfx do pulo do player quando o jogador pular vai aparecer particle system no c
     </tr>
 </table>
 
-Quando o personagem correr vai aparecer uma fumaça nos pés do player.
+Quando o personagem correr vai aparecer uma fumaça nos pés do player o particle system ficar no pé do personagem.
 
 <table border="0">
     <tr>
@@ -173,6 +173,23 @@ Quando o personagem correr vai aparecer uma fumaça nos pés do player.
     </tr>
     <tr>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_walk_Renderer.png" width="494" height="388"/></td>
+    </tr>
+</table>
+
+Os vagalumes vão perseguir o player no cenário e o particle system ficar dentro do personagem.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_firefly_Emisson.png" width="499" height="596"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_firefly_Shape_ColorOverLifetime.png" width="495" height="470"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_firefly_Size-over-Lifetime_Noise.png" width="492" height="303"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_firefly_Collision.png" width="494" height="388"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_coins_Renderer.png" width="494" height="388"/></td>
     </tr>
 </table>
 
