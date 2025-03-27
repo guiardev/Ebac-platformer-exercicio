@@ -195,7 +195,7 @@ Os vagalumes vão perseguir o player no cenário e o particle system ficar dentr
 
 # Adicionando Som
 
-Som moedas
+O script ItemCollectableCoin que vai estar selecionado Audio Source que vai tocar áudio quando o player pegar moeda e imagem do AudioSource e suas configurações.
 
 <table border="0">
     <tr>
