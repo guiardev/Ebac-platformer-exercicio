@@ -199,7 +199,7 @@ Som moedas
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_CircleCollider2d_ItemCollectable.png" width="495" height="371"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_script_ItemCollectableCoin.png" width="495" height="199"/></td>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioSource_Coins.png" width="495" height="470"/></td>
     </tr>
 </table>
