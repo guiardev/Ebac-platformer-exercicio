@@ -228,7 +228,15 @@ Aqui o mesmo script que faz tocar vários áudio para não ficar tocando o mesmo
 
 <h4>Audio Pause</h4>
 
+O menu pause tem as configurações áudios sfx que vão controlar volume de áudios dos efeitos no jogo como tiros e moedas no game, 
+e também poder controlar o volume de áudios música do jogo. A transição vai mudar a configuração dos áudios no mixer.
 
+Para modificar volume do jogo tem um slider que jogador pode puxar para direita e esquerda assim o volume poderá ser aumentado ou diminuindo.
+
+O script AudioTransition que vai esta no botao Transition.
+
+O script AudioChangeVolume estara no SliderSFX e SliderAmbience ele foi add nos dois Slider que vai diser qual volume ele vai manipular
+e variavel do script Float Param que esta escrito nome exposed parameters que desenvovedor colocou no audio mixer: 
 
 <table border="0">
     <tr>
