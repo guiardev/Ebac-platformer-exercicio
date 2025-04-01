@@ -231,8 +231,10 @@ Aqui o mesmo script que faz tocar vários áudio para não ficar tocando o mesmo
 <table border="0">
     <tr>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_MenuPause%20Audios.gif" width="530" height="450"/></td>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioTransition.png" width="495" height="90"/></td>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioChangeVolume.png" width="495" height="90"/></td>
+        <td>
+            <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioTransition.png" width="495" height="90"/>
+            <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioChangeVolume.png" width="495" height="90"/>
+        </td>
     </tr>
 </table>
 
