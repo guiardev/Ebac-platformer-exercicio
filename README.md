@@ -195,7 +195,7 @@ Os vagalumes vão perseguir o player no cenário e o particle system ficar dentr
 
 # Som do game
 
-Som Coins
+<h2>Som Coins</h2>
 
 O script ItemCollectableCoin que vai estar selecionado Audio Source que vai tocar áudio quando o player pegar moeda e imagem do AudioSource e suas configurações.
 
@@ -206,7 +206,7 @@ O script ItemCollectableCoin que vai estar selecionado Audio Source que vai toca
     </tr>
 </table>
 
-Audio Player
+<h2>Audio Player</h2>
 
 O audioPlayHelper serve para testar áudio do player, já o audioRandomPlayAudioClips vai play vários áudio para não ficar tocando os mesmos áudios.
 Criamos 3 AudioSource para pode tocar um 1 por vez, vai tem 3 AudioSource um primeiro que vai mudar os áudios dos passo.
