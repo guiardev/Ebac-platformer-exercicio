@@ -206,7 +206,7 @@ O script ItemCollectableCoin que vai estar selecionado Audio Source que vai toca
     </tr>
 </table>
 
-<h2>Audio Player</h2>
+<h4>Audio Player</h4>
 
 O audioPlayHelper serve para testar áudio do player, já o audioRandomPlayAudioClips vai play vários áudio para não ficar tocando os mesmos áudios.
 Criamos 3 AudioSource para pode tocar um 1 por vez, vai tem 3 AudioSource um primeiro que vai mudar os áudios dos passo.
