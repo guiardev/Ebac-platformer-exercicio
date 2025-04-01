@@ -235,8 +235,8 @@ Para modificar volume do jogo tem um slider que jogador pode puxar para direita 
 
 O script AudioTransition que vai esta no botao Transition.
 
-O script AudioChangeVolume estara no SliderSFX e SliderAmbience ele foi add nos dois Slider que vai diser qual volume ele vai manipular
-e variavel do script Float Param que esta escrito nome exposed parameters que desenvovedor colocou no audio mixer: no Audio Source que esta no Audio Mixer clicando volume na janale Inspector em Expose.
+O script AudioChangeVolume estará no SliderSFX e SliderAmbience ele foi add nos dois slides que vai dizer qual volume ele vai manipular
+e variavel do script Float Param que foi criada no audio mixer: audio source que está no audio mixer clicando audio source e na janela inspector e clicando volume em expose.
 
 <table border="0">
     <tr>
@@ -251,7 +251,7 @@ e variavel do script Float Param que esta escrito nome exposed parameters que de
 
 <h4>Audio Mixer</h4>
 
+O Audio Mixer onde ficam todas configurações áudio source e snapshots que são configurações do botões transições e grupos onde ficam todas áudio source e 
+exposed parameters onde está a variáveis que sliders vão utilizar para poder modificar volume.
+
 <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioMixer.png" width="1155" height="365"/>
-
-
-    
