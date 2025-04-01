@@ -236,7 +236,7 @@ Para modificar volume do jogo tem um slider que jogador pode puxar para direita 
 O script AudioTransition que vai esta no botao Transition.
 
 O script AudioChangeVolume estara no SliderSFX e SliderAmbience ele foi add nos dois Slider que vai diser qual volume ele vai manipular
-e variavel do script Float Param que esta escrito nome exposed parameters que desenvovedor colocou no audio mixer: 
+e variavel do script Float Param que esta escrito nome exposed parameters que desenvovedor colocou no audio mixer: no Audio Source que esta no Audio Mixer clicando volume na janale Inspector em Expose.
 
 <table border="0">
     <tr>
