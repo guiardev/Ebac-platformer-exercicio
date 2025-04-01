@@ -6,7 +6,7 @@ public class AudioRandomPlayAudioClips : MonoBehaviour{
 
     private int _index;
     public List<AudioClip> audioClipList;
-    public List<AudioSource> audioSourceList; // criamos 3 AudioSource para pode tocar um 1 por vez, vai tem 3 AudioSource um primeiro que vai mudar os audios dos passo
+    public List<AudioSource> audioSourceList; // criamos 3 AudioSource para pode tocar um 1 por vez, vai tem 3 AudioSource um primeiro que vai mudar os audios
 
     public void PlayRandom(){
 
