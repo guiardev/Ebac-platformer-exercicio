@@ -195,7 +195,7 @@ Os vagalumes vão perseguir o player no cenário e o particle system ficar dentr
 
 # Som do game
 
-<h5>Som Coins</h5>
+<h4>Som Coins</h4>
 
 O script ItemCollectableCoin que vai estar selecionado Audio Source que vai tocar áudio quando o player pegar moeda e imagem do AudioSource e suas configurações.
 
