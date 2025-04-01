@@ -236,7 +236,7 @@ Aqui o mesmo script que faz tocar vários áudio para não ficar tocando o mesmo
         <td>
             <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioTransition.png" width="495" height="90"/>
             <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioChangeVolume.png" width="495" height="90"/>
-            <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioTriggerTransition.png" width="495" height="90"/>
+            <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioTriggerTransition.png" width="500" height="111"/>
         </td>
     </tr>
 </table>
