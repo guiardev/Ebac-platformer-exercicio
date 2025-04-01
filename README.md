@@ -221,4 +221,14 @@ Criamos 3 AudioSource para pode tocar um 1 por vez, vai tem 3 AudioSource um pri
 Aqui animation selecionada com animação ANIM_Astronaut_Run.
 
 <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_animation_Run_PlayRandom.png" width="1100" height="360"/>
+
+Aqui o mesmo script que faz tocar vários áudio para não ficar tocando o mesmo áudio quando o player ficar atirando.
+
+<table border="0">
+    <tr>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Shoot_AudioRandomPlayAudioClips.png" width="495" height="253"/></td>
+    </tr>
+</table>
+
+
     
