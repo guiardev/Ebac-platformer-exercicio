@@ -47,7 +47,7 @@ O ataque que o player pode fazer é tirar bola do inimigo e ele pode atirar para
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Attack_Cannon.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Attack_Cannon.gif" width="430" height="450"/></td>
         <td>Scripts: GunBase<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_script_GunBase.png" width="497" height="171"/></td>
     </tr>
 </table>
@@ -106,7 +106,7 @@ O item que o jogo vai ter moedas que o player poderá pegar é cada um que o jog
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Coins.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Coins.gif" width="430" height="450"/></td>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_CircleCollider2d_ItemCollectable.png" width="495" height="371"/></td>
     </tr>
 </table>
@@ -115,7 +115,7 @@ O inimigo vai poder ser atingido pelos tiros do player e morrer se ele perder to
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Enemy.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Enemy.gif" width="430" height="450"/></td>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_EnemyBase_HealthBase_FlashColor.png" width="495" height="371"/></td>
     </tr>
 </table>
@@ -132,7 +132,7 @@ O VFX da moeda quando jogador pega moedas vai aparecer particle system que vai c
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Coins.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Coins.gif" width="430" height="450"/></td>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_coins_Emisson.png" width="499" height="596"/></td>
     </tr>
     <tr>
@@ -148,7 +148,7 @@ O vfx do pulo do player quando o jogador pular vai aparecer particle system no c
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="430" height="450"/></td>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_jump_Emisson.png" width="499" height="596"/></td>
     </tr>
     <tr>
@@ -164,7 +164,7 @@ Quando o personagem correr vai aparecer uma fumaça nos pés do player o particl
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="430" height="450"/></td>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_walk_Emisson.png" width="499" height="596"/></td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@ Os vagalumes vão perseguir o player no cenário e o particle system ficar dentr
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Movimentação.gif" width="430" height="450"/></td>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_ParticleSystem_firefly_Emisson.png" width="499" height="596"/></td>
     </tr>
     <tr>
@@ -240,7 +240,7 @@ e variavel do script Float Param que foi criada no audio mixer: audio source que
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_MenuPause%20Audios.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_MenuPause%20Audios.gif" width="430" height="450"/></td>
         <td>
             <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioTransition.png" width="495" height="90"/>
             <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_AudioChangeVolume.png" width="495" height="90"/>
