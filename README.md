@@ -115,7 +115,7 @@ O inimigo vai poder ser atingido pelos tiros do player e morrer se ele perder to
 
 <table border="0">
     <tr>
-        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Coins.gif" width="530" height="450"/></td>
+        <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/Movie_Enemy.gif" width="530" height="450"/></td>
         <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_EnemyBase_HealthBase_FlashColor.png" width="495" height="371"/></td>
     </tr>
 </table>
