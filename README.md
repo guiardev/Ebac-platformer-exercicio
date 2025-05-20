@@ -2,7 +2,22 @@
 
 Jogo feito no cursos Ebac, nesse curso eu aprendi a desenvolver game utilizando Unity 2D.
 
-# Menu
+<h2>Sumário</h2>
+    <ol>
+        <li><h4><a href="#C1">Menu</a></h4></li>
+        <li><h4><a href="#C2">Managers</a></h4></li>
+        <li><h4><a href="#C3">Player</a></h4></li>
+        <li><h4><a href="#C4">Attack</a></h4></li>
+        <li><h4><a href="#C5">Animação Player</a></h4></li>
+        <li><h4><a href="#C6">Animação Enemy</a></h4></li>
+        <li><h4><a href="#C7">Skinning</a></h4></li>
+        <li><h4><a href="#C8">Itens e Inimigos</a></h4></li>
+        <li><h4><a href="#C9">Scriptable Objects</a></h4></li>
+        <li><h4><a href="#C10">VFX and Particulas</a></h4></li>
+        <li><h4><a href="#C11">Som do game</a></h4></li>
+    </ol>
+
+<h1 id="C1">Menu</h1>
 
 O Menu do jogo terá três opções: um play para entrar cena gameplay e outro exit para sair do jogo e credits.
 Utilizamos o HorizontalLayoutGroup para organizar os botões.
@@ -15,7 +30,7 @@ Utilizamos o HorizontalLayoutGroup para organizar os botões.
 </table>
 
 
-# Managers
+<h1 id="C2">Managers</h1>   
 
 O gameManager vai gerenciar aspectos do jogo como prefab do player e inimigos, referências e animação.
 
@@ -32,7 +47,7 @@ O PauseManager vai gerenciar sistema pause do jogo.
 
 <img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_PauseManager.png" width="491" height="49"/>
 
-# Player 
+<h1 id="C3">Player</h1>
 
 O personagem poderá movimentar para todos os lados e pular no cenário, o script HealthBase vai fazer a parte vida do player e todos inimigo do jogo.
 
@@ -42,6 +57,8 @@ O personagem poderá movimentar para todos os lados e pular no cenário, o scrip
         <td>Scripts: Player and HealthBase<img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Player_HealthBase.png" width="430" height="500"/></td>
     </tr>
 </table>
+
+<h1 id="C4">Attack</h1>
 
 O ataque que o player pode fazer é tirar bola do inimigo e ele pode atirar para todos os lados e atira no pulo e o tiro atinge o inimigo.
 
@@ -57,7 +74,7 @@ Quando o personagem morre ele vai ser destruído o script PlayerDestroyHelper qu
 
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_sortingGroup_FlashColor_PlayerDestroyHelper.png" width="430" height="450"/></td>
  
-# Animação Player
+<h1 id="C5">Animação Player</h1>
 
 O animador do player com as animações e as transições e os parâmetros run que é um Trigger, o death e um Bool.
 
@@ -66,7 +83,7 @@ O animador do player com as animações e as transições e os parâmetros run q
 O animator do player
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_animator.png" width="489" height="191"/></td>
 
-# Animação Enemy
+<h1 id="C6">Animação Enemy</h1>
 
 O animador do enemy com as animações e as transições e os parâmetros attack que é um Trigger, o death e um Trigger.
 
@@ -75,7 +92,7 @@ O animador do enemy com as animações e as transições e os parâmetros attack
 O animator do enemy
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_Animator_Enemy.png" width="489" height="191"/></td>
 
-# skinning
+<h1 id="C7">Skinning</h1>
 
 No Skinning Editor pode criar ossos no sprite para poder manipular o sprite e fazer animações.
 
@@ -100,7 +117,7 @@ Aqui como ficou personagem e objetos da cena como skinning.
 
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/Recordings/record_Satellite_bone.gif" width="320" height="210"/></td>
 
-# Itens e inimigos
+<h1 id="C8">Itens e inimigos</h1>
 
 O item que o jogo vai ter moedas que o player poderá pegar é cada um que o jogador pegar vai adicionar um valor na interface do game.
 
@@ -120,13 +137,13 @@ O inimigo vai poder ser atingido pelos tiros do player e morrer se ele perder to
     </tr>
 </table>
 
-# scriptable objects
+<h1 id="C9">Scriptable Objects</h1>
 
 O scriptable objects e o script de configurações dos valores que os scripts vão utilizar, assim os animadores e artistas poderão modificar os valores do script.
 
 <td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_SO_Player_01.png" width="455" height="352"/></td>
 
-# VFX
+<h1 id="C10">VFX</h1>
 
 O VFX da moeda quando jogador pega moedas vai aparecer particle system que vai criar várias moedas por uns segundos.
 
@@ -193,7 +210,7 @@ Os vagalumes vão perseguir o player no cenário e o particle system ficar dentr
     </tr>
 </table>
 
-# Som do game
+<h1 id="C11">Som do game</h1>
 
 <h4>Som Coins</h4>
 
