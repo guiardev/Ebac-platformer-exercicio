@@ -72,7 +72,7 @@ O ataque que o player pode fazer é tirar bola do inimigo e ele pode atirar para
 O Sorting Group vai cuidar ordena renderização dos renderers do cenário, quando o player levar um hit me bisca quem vai fazer ele piscar e o script FlashColor.
 Quando o personagem morre ele vai ser destruído o script PlayerDestroyHelper que vai fazer isso acontecer.
 
-<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_sortingGroup_FlashColor_PlayerDestroyHelper.png" width="430" height="450"/></td>
+<td><img src="https://github.com/guiardev/Ebac-platformer-exercicio/blob/develog/Assets/imgs/img_sortingGroup_FlashColor_PlayerDestroyHelper.png" width="468" height="274"/></td>
  
 <h1 id="C5">Animação Player</h1>
 
